@@ -1,5 +1,5 @@
 # Umbrella Documentation
-This is a collection of documentations for all products developed by Umbrella Ltd Financial Services
+This is a collection of all documentations for products developed by Umbrella Ltd Financial Services
 
 # iCash Gateway
  - [iCash API Documentation](https://github.com/umbrellafs/iCashGatewayAPIDocs)
