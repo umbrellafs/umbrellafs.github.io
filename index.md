@@ -1,7 +1,7 @@
 This is a collection of all documentations for products developed by Umbrella Ltd Financial Services
 
 # iCash Gateway
- - [iCash API Documentation](https://github.com/umbrellafs/iCashGatewayAPIDocs)
+ - [iCash API Documentation](https://github.com/umbrellafs/iCashGatewayAPIDocs){:target="_blank"}
  - [iCash Gateway Client in Python](https://github.com/umbrellafs/iCashGatewayClientPython)
  - [iCash Gateway Client in PHP](https://github.com/umbrellafs/iCashGatewayClientPHP)
  - [iCash Gateway Client in JS](https://github.com/umbrellafs/iCashGatewayClientNodeJS)
