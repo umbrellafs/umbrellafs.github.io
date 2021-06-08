@@ -1,4 +1,3 @@
-# Umbrella Documentation
 This is a collection of all documentations for products developed by Umbrella Ltd Financial Services
 
 # iCash Gateway
