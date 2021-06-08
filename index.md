@@ -1,6 +1,3 @@
-title: [Umbrella Documentation]
-description: [Documentaion for all Umbrella Products]
-
 # Umbrella Documentation
 This is a collection of all documentations for products developed by Umbrella Ltd Financial Services
 
