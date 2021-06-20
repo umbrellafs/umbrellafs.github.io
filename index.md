@@ -7,8 +7,8 @@ This is a collection of all documentations for products developed by Umbrella Lt
  - [iCash Gateway Client in JS](https://github.com/umbrellafs/iCashGatewayClientNodeJS){:target="_blank"}
 
 # iCard Gateway
- - [iCard Gateway API Documentation](https://github.com/umbrellafs/iCardAPIDocs){:target="_blank"}
- - [iCard Gateway Client in Python](https://github.com/umbrellafs/iCardGatewayClientPython){:target="_blank"}
+ - [iCard Gateway API Documentation](https://umbrellafs.github.io/iCardGatewayAPIDocs){:target="_blank"}
+ - [iCard Gateway Client in Python](https://umbrellafs.github.io/iCardGatewayClientPython){:target="_blank"}
  - [iCard Gateway Client in PHP](){:target="_blank"}
  - [iCard Gateway Client in JS](https://github.com/umbrellafs/iCardGatewayClientNodeJS){:target="_blank"}
 
